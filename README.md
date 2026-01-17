@@ -15,7 +15,8 @@ You are now connected to database "sso_db" as user "milanchristy".
 
 sso_db=# select*from users;
 
-
 |        id | login         |
 | --------: | ------------- |
 | 253253440 | milanchristy2 |
+| 124037892 | dev-ploy      |
+
